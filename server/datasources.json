@@ -1,0 +1,11 @@
+{
+  "db": {
+    "host": "ecus.cgjjup9wfpty.ap-northeast-1.rds.amazonaws.com",
+    "port": 3306,
+    "database": "ecus",
+    "password": "slys123456",
+    "name": "ecus",
+    "connector": "mysql",
+    "user": "yiyi"
+  }
+}
